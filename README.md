@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/shrimpy-dev/shrimpy-node) 
+
 # shrimpy-node
 The official Node.js library for the Shrimpy Developer API https://developers.shrimpy.io/docs
 
